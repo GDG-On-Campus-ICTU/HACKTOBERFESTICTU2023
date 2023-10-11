@@ -13,3 +13,8 @@
 - Place: Yaoundé, Cameroon
 - Bio: I am a 2nd year in the Computer Science realm, and I strive to bring idea to life with the power of code.
 - GitHub: [Nde Dilan](https://github.com/Nde-Dilan)
+
+- #### Name: [NDE HURICH DILAN](https://github.com/lontsi-aude)
+- Place: Yaoundé, Cameroon
+- Bio: I am a 2nd year in the Computer Science realm, and I strive to bring idea to life with the power of code.
+- GitHub: [Nde Dilan](https://github.com/lontsi-aude)
