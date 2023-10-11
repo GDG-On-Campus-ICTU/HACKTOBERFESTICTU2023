@@ -105,3 +105,14 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 
 console.log('Hello, World!');
 ```
+
+### 4. Add your account Details
+Add a file containing your social media accounts:
+
+```markdown
+#### Name: [YOUR NAME](GitHub link)
+- linkedin account
+- instagram account
+- facebook account
+- GitHub: [GitHub account name](GitHub link)
+```
