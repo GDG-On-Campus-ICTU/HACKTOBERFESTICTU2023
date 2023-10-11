@@ -18,3 +18,8 @@
 - Place: Yaoundé, Cameroon
 - Bio: I am a 2nd year in the Computer Science realm, and I strive to bring idea to life with the power of code.
 - GitHub: [Nde Dilan](https://github.com/lontsi-aude)
+
+#### NAME: [JOHN STEPHANE]{https://github.com/john.stephane}
+-Place:yaounde, cameroon
+-Bio: am a year 4 student at the ictuniversity.
+-Github:  [JOHN STEPHANE]{https://github.com/john.stephane}
