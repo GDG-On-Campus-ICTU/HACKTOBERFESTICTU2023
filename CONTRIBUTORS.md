@@ -23,3 +23,8 @@
 -Place:yaounde, cameroon
 -Bio: am a year 4 student at the ictuniversity.
 -Github:  [JOHN STEPHANE]{https://github.com/john.stephane}
+
+#### NAME: [Bimme Audrey]{https://github.com/Bimme2audrey }
+-Area: Yaounde-Cameroon
+-Bio: Computer Science student, Aspiring web developer
+-Github: [Bimme Audrey Z]{https://github.com/Bimme2audrey }
